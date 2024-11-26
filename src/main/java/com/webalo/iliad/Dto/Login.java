@@ -1,4 +1,4 @@
-package com.webalo.iliad.Domain;
+package com.webalo.iliad.Dto;
 
 import lombok.Data;
 
@@ -7,5 +7,4 @@ public class Login {
 
     String username;
     String password;
-
 }
